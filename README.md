@@ -7,3 +7,5 @@ In this repo, a python script is written for implementing the Pareto-optimal cut
 *Accelerating Benders Decomposition: Algorithmic Enhancement and Model Selection Criteria*
 
 by **T. L. MAGNANTI**, **R. T. WONG**
+
+It is now archived by XYC
